@@ -1,3 +1,7 @@
+---
+title: Objects Dictionary
+---
+
 La página de "**Objects dictionary**" ofrece un listado completo de todos los elementos del Sistema analizado, donde se muestran las características principales de cada uno de ellos. Cuenta con tres secciones denominadas: "**System dictionary**", "**Current selection**", "**Groups**" que serán explicadas posteriormente a lo largo de este manual.
 
 Se puede acceder a esta página seleccionando la opción "**Objects dictionary**" de la droplist "**Options**".
