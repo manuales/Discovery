@@ -1,3 +1,7 @@
+---
+title: Apéndice B. Iconos de la herramienta
+---
+
 **_Discovery View_** por ser una herramienta 100% visual presenta una variedad de iconos, por lo que se explicarán su significado a continuación:
 
 <table class="tablem" cellspacing="8" cellpadding="8">

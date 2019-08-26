@@ -9,7 +9,6 @@ footer: Copyright © 2019-Base100
 ---
 
 ![Java](/img/001.jpg 'java')
-
 © Copyright BASE 100, S.A. Todos los derechos reservados.
 Todos los productos y descripciones de productos son propiedad exclusiva de BASE100. Se divulgan con fines estrictamente informativos de los productos y únicamente al destinatario de este documento. Queda expresamente prohibida la copia o difusión a terceros y cualquier tipo de ingeniería inversa.
 

@@ -1,3 +1,7 @@
+---
+title: System Structure
+---
+
 La página "**System structure**" es el punto de inicio del análisis del Sistema. Esta página ofrece una visión gráfica de todos los elementos presentes en el Sistema (ficheros, programas, variables) y sus relaciones (to y from). Una imagen completa y fácil de entender de todo el Sistema. Desde aquí se podrá bajar a cualquier detalle.
 
 Esta página también muestra la estructura en detalle de cada elemento, así como la información completa del mismo. Dependiendo del tipo de elemento se puede navegar entre las diferentes opciones que se presentan. También en el caso de los elementos de tipo ficheros, se podrá descargar toda la información contenida en cada archivo, es decir los registros que componen dicho elemento.

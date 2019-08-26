@@ -6,17 +6,23 @@ module.exports = {
 	     '/',
 		 'introduccion',
 		 'comenzar',
-		 'objects'
+		 'objects',
+		 'structure',
+		 'use',
+		 'apendicea',
+		 'apendiceb',
+		 'apendicec'
 		 /*'charts-math',
 		 'custom-components'*/
 	  ],
     sidebarDepth: 2,
-    displayAllHeaders: true, // Default: false
+    displayAllHeaders: false, // Default: false
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Introduccion', link: '/introduccion' },
       { text: 'Utilizacion', link: '/comenzar'},
-      { text: 'Objects', link: '/objects'} /*,
+      { text: 'Objects', link: '/objects'},
+      { text: 'Structure', link: '/structure'} /*,
       { text: 'Charts And Math', link:'/charts-math'},
 	  { text: 'Custom Components', link: '/custom-components'}*/
     ]
@@ -25,7 +31,7 @@ module.exports = {
     // options for markdown-it-anchor
     anchor: { permalink: true },
     // options for markdown-it-toc
-    toc: { includeLevel: [1, 2,3, 4] },
+    toc: { includeLevel: [1, 2,3] },
     config: md => {
       // use more markdown-it plugins!
       md.set({html: true})

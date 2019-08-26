@@ -1,3 +1,7 @@
+---
+title: Use Cases
+---
+
 Se define como "**Use Cases**" a una sucesión de acciones dentro del Sistema que constituyen un proceso para cumplir una función. Es un mecanismo que permite reproducir el comportamiento del Sistema y analizar su funcionalidad. Corresponde a las operaciones que realizan los usuarios del Sistema en su trabajo con éste. _**Discovery View**_ permite gestionar los "**Use Cases**" que son generados previamente por la herramienta "_**Caravel Test Maker**_".
 
 **_Discovery View_** permite el análisis de todos los "**Use Cases**" grabados en el Sistema. Se podrá ver en diferentes niveles de detalles logrando de esta manera una mejor compresión de los mismos. A continuación, se muestra el inicio correspondiente a esta página:

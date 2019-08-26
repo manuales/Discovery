@@ -1,3 +1,7 @@
+---
+title: Apéndice A. Conceptos y Términos
+---
+
 A lo largo de este manual se han utilizado palabras y términos con significado específico para el mismo, para ello se ha hecho una tabla con las palabras utilizadas y su significado.
 
 <table class="tablem" cellpadding="8" cellspacing="8">

@@ -1,7 +1,6 @@
-# Apéndice C. Acciones con el ratón y el teclado
-
-<div class="text">
-
+---
+title: Apéndice C. Acciones con el ratón
+---
 Se describen las acciones que se podrán ejecutar utilizando el ratón o teclado. A continuación, se muestran.
 
 ## Acciones con el ratón
